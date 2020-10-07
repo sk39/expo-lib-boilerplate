@@ -10,7 +10,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "bob build",
+    "prepare": "bob build",
     "tsc": "tsc --noEmit",
     "lint": "eslint src/**/*"
   },

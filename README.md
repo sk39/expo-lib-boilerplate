@@ -1,4 +1,4 @@
-# react-lib-boilerplate
+# expo-lib-boilerplate
 
 Boilerplate for react native expo library.
 
